@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Yijun(Esther) Gu"
 title_separator          : "-"
 name                     : &name "Yijun(Esther) Gu"
-description              : &description "Graduate student at Georgia Tech"
+description              : &description "Master student, Computer Perception and Robotics, Georgia Tech"
 url                      : https://esthergu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "esthergu/esthergu.github.io"
+repository               : "esthergu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
