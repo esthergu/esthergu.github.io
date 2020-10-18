@@ -1,16 +1,7 @@
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
+title: "Publications"
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### 2020
+Z. Erickson*, <strong>Y. Gu*</strong>, and C. C. Kemp, [“Assistive VR Gym: Using Interactions with Real People to Improve Virtual Assistive Robots”](https://arxiv.org/abs/2007.04959), <em>IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)</em>, 2020.

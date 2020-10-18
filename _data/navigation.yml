@@ -1,22 +1,16 @@
-# main links links
+# main links
 main:
   - title: "Home"
-    url: /about/
+    url: /home/
   
   - title: "Research"
-    url: /projects/
+    url: /research/
   
-  # - title: "Projects"
-  #   url: /projects/
+  - title: "Publications"
+    url: /publications/
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Teaching"
+    url: /teaching/    
     
   - title: "CV"
-    url: /cv/
-
-  - title: "Contact"
-    url: /contact/
+    url: /files/Esther_resume.pdf

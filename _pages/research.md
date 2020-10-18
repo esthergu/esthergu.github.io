@@ -1,0 +1,14 @@
+---
+permalink: /research/
+title: "Research"
+author_profile: true
+---
+
+{% include base_path %}
+
+### Assistive VR Gym: Interactions with Real People to Improve Virtual Assistive Robots [[pdf]](http://arxiv.org/pdf/2007.04959.pdf)[[code]](http://github.com/Healthcare-Robotics/assistive-vr-gym)
+
+<details><summary>Abstract</summary>Versatile robotic caregivers could benefit millions of people worldwide, including older adults and people with disabilities. Recent work has explored how robotic caregivers can learn to interact with people through physics simulations, yet transferring what has been learned to real robots remains challenging. Virtual reality (VR) has the potential to help bridge the gap between simulations and the real world. We present Assistive VR Gym (AVR Gym), which enables real people to interact with virtual assistive robots. We also provide evidence that AVR Gym can help researchers improve the performance of simulation-trained assistive robots with real people. Prior to AVR Gym, we trained robot control policies <em>Original Policies</em>) solely in simulation for four robotic caregiving tasks (robot-assisted feeding, drinking, itch scratching, and bed bathing) with two simulated robots (PR2 from Willow Garage and Jaco from Kinova). With AVR Gym, we developed <em>Revised Policies</em> based on insights gained from testing the Original policies with real people. Through a formal study with eight participants in AVR Gym, we found that the Original policies performed poorly, the Revised policies performed significantly better, and that improvements to the biomechanical models used to train the Revised policies resulted in simulated people that better match real participants. Notably, participants significantly disagreed that the Original policies were successful at assistance, but significantly agreed that the Revised policies were successful at assistance. Overall, our results suggest that VR can be used to improve the performance of simulation-trained control policies with real people without putting people at risk, thereby serving as a valuable stepping stone to real robotic assistance.</details>
+
+
+<iframe src="https://www.youtube.com/embed/tcyPMkAphNs" allowfullscreen="allowfullscreen" width="336" height="188" frameborder="0"></iframe>
