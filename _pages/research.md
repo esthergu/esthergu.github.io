@@ -28,7 +28,8 @@ author_profile: true
 
 *Univ. Michigan, Advised by Prof.Chad Jenkins, Jan. 2019 - Apr. 2019*
 
-<details><summary>Abstract</summary>Garbage classification has always been a focus in environmental protection research. According to a study by Columbia University, Americans trash seven pounds of material per person every single day—that is 2,555 pounds of material
-
+<details><summary>Abstract</summary>Garbage classification has always been a focus in environmental protection research. According to a study by Columbia University, Americans trash seven pounds of material per person every single day—that is 2,555 pounds of material per person per year. A large proportion of waste materials are ultimately dumped into landfills or 
+burned by incinerators. This one-way treatment without discrimination heavily pollutes our environment and wastes recyclable resources. Changes can be made by us. Our team plans to design an autonomic garbage classification robot which is capable of detecting object, recognizing type of garbage, and putting it into the right category. With the help of robots, we are able to improve the garbage sorting process, reducing recyclable waste and the cost of human resource. Our project is intended to 
+stimulate our imagination, to test new concepts that may solve problem with overflowing garbage of the future.</details>
 
 <iframe src="https://www.youtube.com/embed/doEAyVBbbBg" allowfullscreen="allowfullscreen" width="336" height="188" frameborder="0"></iframe>
